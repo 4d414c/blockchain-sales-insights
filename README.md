@@ -1,7 +1,7 @@
 # NFT trading insights through blockchain sales data analysis
 
 ## Overview
-This project analyzes NFT trading data across various blockchains to uncover insights into trading activity.  Leveraging Pandas and Matplotlib in Python, the project aims to analyze market trends, including trade volume, number of buyers, sellers, and overall sales across different blockchain networks.
+This project analyzes NFT trading data across various blockchains to uncover insights into trading activity.  Leveraging Pandas and Matplotlib in Python, the project aims to analyze market trends, including trade volume, number of buyers and sellers, and overall sales across different blockchain networks.
 
 ## Dataset Overview
 The dataset, retrieved using Dune Analytics API, contains NFT trading metrics across multiple blockchains.  It includes the following key fields:
